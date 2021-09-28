@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "eureka-server"
+		},
+		{
+			"path": "zuul-server"
+		},
+		{
+			"path": "vendas-ms"
+		},
+		{
+			"path": "produtos-ms"
+		}
+	]
+}
